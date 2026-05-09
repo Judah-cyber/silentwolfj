@@ -21,27 +21,87 @@
 
 <br>
 
-**DEPLOY WOLFBOT**
+<!-- ═══════════════ COMMAND CENTER ═══════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=33ff00&center=true&width=550&height=40&lines=%E2%96%B8+COMMAND+CENTER+%E2%97%82" alt="Typing SVG" />
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
 <br>
+
+🐺
+
+<br>
+
+<b>DEPLOY WOLFBOT</b>
+
+<br>
+
+<sup>Launch to the cloud</sup>
+
+<br><br>
+
 <a href="https://7-w.vercel.app/wolfbot.html" target="_blank">
-  <img src="https://img.shields.io/badge/DEPLOY%20WOLFBOT-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=darkgreen&color=darkgreen" alt="DEPLOY WOLFBOT"/>
+<img src="https://img.shields.io/badge/DEPLOY-WOLFBOT-00ff41?style=for-the-badge&logo=heroku&logoColor=white&labelColor=0d3300" alt="DEPLOY WOLFBOT"/>
 </a>
 
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
 <br>
 
-**SESSION PAIR**
+🔗
+
 <br>
+
+<b>SESSION PAIR</b>
+
+<br>
+
+<sup>Connect WhatsApp</sup>
+
+<br><br>
+
 <a href="https://pair.xwolf.space" target="_blank">
-  <img src="https://img.shields.io/badge/pair%20code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="PAIR"/>
+<img src="https://img.shields.io/badge/PAIR-CODE-00ccff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=003d52" alt="PAIR CODE"/>
 </a>
 
+<br><br>
+
+</td>
+<td align="center" width="33%">
+
 <br>
 
-**DOWNLOAD ZIP**
+📦
+
 <br>
+
+<b>DOWNLOAD ZIP</b>
+
+<br>
+
+<sup>Get source code</sup>
+
+<br><br>
+
 <a href="https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip" target="_blank">
-  <img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkgreen" alt="Download zip"/>
+<img src="https://img.shields.io/badge/DOWNLOAD-ZIP-ff7700?style=for-the-badge&logo=github&logoColor=white&labelColor=442200" alt="DOWNLOAD ZIP"/>
 </a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════ -->
 
 <br>
 
@@ -120,73 +180,3 @@ WOLFBOT comes packed with a wide range of features:
 ```bash
 git clone https://github.com/sil3nt-wolf/silentwolf.git
 cd silentwolf
-```
-
-### 2. Install dependencies
-```bash
-npm install
-```
-
-### 3. Get your session pair code
-Visit the [Session Pair Page](https://7-w.vercel.app/wolf.html) to generate your WhatsApp session credentials.
-
-### 4. Start the bot
-```bash
-node index.js
-```
-
-Or deploy directly using the deploy button above for a one-click cloud setup.
-
----
-
-## 📋 Command Categories
-
-| Category | Commands |
-|---|---|
-| AI Chat | gpt, gemini, grok, deepseek, copilot, bard, claude, mistral, blackbox, wormgpt, chatbot |
-| AI Generation | imagine, flux, imagegen, suno, speechwriter, humanizer, removebg, vision |
-| Group Management | add, kick, promote, demote, mute, warn, ban, antilink, welcome, goodbye |
-| Auto Moderation | antisticker, antiimage, antivideo, antibadword, antimention, antiviewonce |
-| Media Downloads | tiktok, instagram, facebook, youtube, ytmp3, ytmp4, spotify, snapchat |
-| Automation | autoread, autotyping, autorecording, autoreact, autoviewstatus, autobio |
-| Utility | ping, alive, uptime, translate, weather, wiki, define, news, iplookup |
-| Privacy | online, lastseen, receipt, profilepic, privacy |
-| Games | tictactoe, snake, tetris, quiz, truth, dare, rps, dice |
-| Ethical Hacking | whois, dnslookup, portscan, sslcheck, malwarecheck, urlscan, nmap |
-| Text Effects | neon, 3D text, graffiti, metallic, hologram, ephoto effects (50+) |
-| Logo Studio | goldlogo, neonlogo, firelogo, diamondlogo, rainbowlogo (30+) |
-
----
-
-## 🌐 Deployment Platforms
-
-WOLFBOT runs on all major platforms:
-
-- **Replit** — recommended for beginners, always-on
-- **Heroku** — cloud deployment with one click
-- **Railway** — fast and simple cloud hosting
-- **Render** — free tier available
-- **VPS/Ubuntu** — full control, production-ready
-- **Termux (Android)** — run directly from your Android phone
-
----
-
-## 🔗 Links
-
-- 🌍 [Deploy WOLFBOT](https://inspiring-genie-ebae09.netlify.app/)
-- 🔑 [Get Session Pair Code](https://7-w.vercel.app/wolf.html)
-- 📦 [Download ZIP](https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip)
-- 🐙 [GitHub Repository](https://github.com/sil3nt-wolf/silentwolf)
-
----
-
-<!-- Glowing Bottom Border -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-<p align="center">
-  <strong><span style="color:#00ff41">WOLF</span>BOT by <span style="color:#00ff41">Silent Wolf</span></strong>
-  <br>
-  <sub>POWERED BY WOLF TECH — Silent Wolf WhatsApp Bot (WOLFBOT) © 2026</sub>
-</p>
